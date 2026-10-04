@@ -57,7 +57,7 @@ After comparing the different machine learning models, **KNN achieved the best f
 
 The complete project documentation is available in this repository:
 
-`Wind_Power_Forecasting_Project_Report.pdf`
+`[View Project Report](./wind_power_forecasting_projects_report.pdf)
 
 ## 👨‍💻 Project Type
 
